@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, my name is Veronika</h1>
 <h3 align="center">A user-obsessed designer & developer based in Toronto.</h3>
 
-- 👨‍💻 All of my projects are available at [veronika-latawiec.com](veronika-latawiec.com)
+- 👨‍💻 Checkout my (WIP) portfolio at [veronika-latawiec.com](veronika-latawiec.com)
 
 - 💬 Ask me about **React, Front-End Development, UX & UI**
 
-- 📫 How to reach me **vlat.designs@gmail.com**
+- 📫 Get in touch with me at **vlat.designs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
